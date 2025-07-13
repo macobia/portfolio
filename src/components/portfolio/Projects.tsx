@@ -9,7 +9,7 @@ const Projects :React.FC = () => {
     {
       title: "Dance Pose AI",
       description: "AI-powered dance pose detection and real-time feedback application using MediaPipe and TensorFlow.js",
-      image: "/src/assets/screenshot2.jpg",
+      image: "/screenshot2.jpg",
       techStack: ["React", "TypeScript", "TensorFlow.js", "MediaPipe", "Tailwind CSS"],
       liveLink: "#",
       githubLink: "#",
@@ -36,7 +36,7 @@ const Projects :React.FC = () => {
     {
       title: "Portfolio Dashboard",
       description: "Modern dashboard for managing personal portfolio",   //TODO with real-time analytics and data visualization
-      image: "/src/assets/screenshot3.jpg",
+      image: "/screenshot3.jpg",
       techStack: ["React", "TypeScript", "Recharts", "Zustand", "Tailwind"],
       liveLink: "#",
       githubLink: "#",
@@ -45,7 +45,7 @@ const Projects :React.FC = () => {
     {
       title: "Dance Academy Website",
       description: "A visually rich and interactive website for a dance academy featuring performance videos, event bookings, User Dashboards, shareable content, and admin CMS integration.",
-      image: "/src/assets/screenshot1.png", 
+      image: "/screenshot1.png", 
       techStack: ["React", "TypeScript", "Tailwind", "Node.js", "MongoDB", "Framer Motion"],
       liveLink: "#",
       githubLink: "#",
@@ -54,7 +54,7 @@ const Projects :React.FC = () => {
     {
       title: "Chief-Store",
       description: "A modern e-commerce platform built with a responsive UI, secure payment integration (Flutterwave), admin order management, and real-time order status tracking.",
-      image: "/src/assets/screenshot4.jpg",
+      image: "/screenshot4.jpg",
       techStack: ["React", "Node.js", "Express", "MongoDB", "Zustand", "Flutterwave"],
       liveLink: "https://chief-store.vercel.app/",
       githubLink: "https://github.com/macobia/chief-store",
@@ -63,7 +63,7 @@ const Projects :React.FC = () => {
     {
       title: "Discord Bot (Custom Bot)",
       description: "A multipurpose Discord bot with automated moderation, fun commands, and custom prefix handling, built using Discord.js.",
-      image: "/src/assets/discord-bot.jpg",
+      image: "/discord-bot.jpg",
       techStack: ["Node.js", "Discord.js"],
       liveLink: "#",
       githubLink: "https://github.com/macobia/discord-bot",

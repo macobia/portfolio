@@ -6,7 +6,7 @@ Welcome to my personal developer portfolio! This repository showcases my project
 
 ## 🌐 Live Preview
 
-👉 [macobia.dev](https://your-live-site-url.com)
+👉 [macobia.dev](https://portfolio-macobia.vercel.app/)
 
 ---
 
@@ -87,7 +87,7 @@ Full-Stack Developer | Blockchain Engineer | AI Automator
 
 🧑‍💻 GitHub: github.com/macobia
 
-🖥️ Portfolio: macobia.dev
+🖥️ Portfolio: (https://portfolio-macobia.vercel.app/)
 
 ---
 ##  🙌 Contributions

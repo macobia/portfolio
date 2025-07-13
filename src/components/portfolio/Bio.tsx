@@ -161,7 +161,7 @@ const Bio: React.FC = () => {
                 >
                   <div className="w-full h-full rounded-3xl bg-gray-200 dark:bg-gray-800 flex items-center justify-center overflow-hidden">
                     <div className="text-6xl font-bold text-gray-400 dark:text-gray-600">
-                      <img src="/src/assets/macben.jpg" alt="Macben's image" className='w-full h-full object-cover'/>
+                      <img src="/macben.jpg" alt="Macben's image" className='w-full h-full object-cover'/>
                     </div>
                   </div>
                 </motion.div>
