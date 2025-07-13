@@ -69,11 +69,12 @@ npm run dev
 ---
 ## 📄 .env Configuration
 Rename .env.example to .env and fill in your EmailJS credentials:
-VITE_service_id=your_emailjs_service_id
-VITE_template_id=your_emailjs_template_id
-VITE_public_key=your_emailjs_public_key
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+VITE_service_id=your_emailjs_service_id
+
+VITE_template_id=your_emailjs_template_id
+
+VITE_public_key=your_emailjs_public_key
 
 ---
 ## About Me
