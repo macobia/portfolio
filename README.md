@@ -45,7 +45,6 @@ portfolio/
 ├── LICENSE
 └── README.md
 
-
 ---
 
 ## ⚙️ Setup & Installation
@@ -66,7 +65,9 @@ cp .env.example .env
 # 5. Start development server
 npm run dev
 
-.env Configuration
+```
+---
+## 📄 .env Configuration
 Rename .env.example to .env and fill in your EmailJS credentials:
 VITE_service_id=your_emailjs_service_id
 VITE_template_id=your_emailjs_template_id
@@ -74,7 +75,8 @@ VITE_public_key=your_emailjs_public_key
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-About Me
+---
+## About Me
 MacBen Obiakor
 Full-Stack Developer | Blockchain Engineer | AI Automator
 
@@ -86,7 +88,9 @@ Full-Stack Developer | Blockchain Engineer | AI Automator
 
 🖥️ Portfolio: macobia.dev
 
-🙌 Contributions
+---
+##  🙌 Contributions
 Contributions, feedback, and suggestions are welcome! Feel free to fork this repo, open issues, or create pull requests.
 
-Designed, built, and maintained by MacBen Obiakor 🌟
+---
+## Designed, built, and maintained by MacBen Obiakor 🌟
