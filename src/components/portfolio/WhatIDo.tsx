@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '../../components/ui/accordion';
 import { Code, Blocks, Bot, Cloud, Puzzle, PenTool, Wrench } from 'lucide-react';
 
-const WhatIDo = () => {
+const WhatIDo: React.FC = () => {
   const rotatingSkills = [
     'Web Development',
     'Blockchain App Development', 

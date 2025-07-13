@@ -24,9 +24,9 @@ import {
   Zap,
 } from 'lucide-react';
 
-const Skills = () => {
+const Skills: React.FC = () => {
 
-const iconMap: Record<string, JSX.Element> = {
+const iconMap: Record<string, React.ReactNode> = {
   'React.js': <Code className="w-4 h-4" />,
   TypeScript: <Code className="w-4 h-4" />,
   'Tailwind CSS': <LayoutDashboard className="w-4 h-4" />,
