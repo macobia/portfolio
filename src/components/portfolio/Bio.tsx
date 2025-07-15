@@ -39,7 +39,7 @@ const Bio: React.FC = () => {
     {
       year: "2025",
       title: "AI Integration",
-      description: "Building AI-powered applications",
+      description: "Building AI-powered applications .",
       color: "from-pink-500 to-rose-500",
       icon: <Calendar className="w-5 h-5" />
     }
